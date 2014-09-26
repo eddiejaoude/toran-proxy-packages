@@ -1,4 +1,4 @@
-toran-proxy-packages
-====================
+# Toran Proxy Package List
 
-List of Composer Packages 
+List in Form & in Yaml to use with Toran Proxy to give one a Full Offline Mirror of Composer
+
