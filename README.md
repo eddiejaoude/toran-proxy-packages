@@ -9,3 +9,7 @@ List of Packagist Packages in a list for Form input & in Yaml to add to Toran Pr
 
 1. Update config file with one of our supplied lists
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/eddiejaoude/toran-proxy-packages/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
