@@ -9,3 +9,4 @@ List of Packagist Packages in a list for Form input & in Yaml to add to Toran Pr
 
 1. Update config file with one of our supplied lists
 
+See also full setup with [Vagrant & Ansible](https://github.com/eddiejaoude/toran-proxy-vagrant-ansible)
